@@ -29,12 +29,20 @@ This repository houses the various projects and assignments I completed during m
 ## Projects
 
 [**Should I Stay or Should I Go?**](https://github.com/taliabahar/React-TaliaWengelKeziahJoshua)
+
 [**Pet Match**](https://github.com/taliabahar/pet-match)
+
 [**The Whole Story**](https://github.com/taliabahar/tws-client)
+
 [**RE Climate Webapp**](https://github.com/lmu-climate/lmu-climate-webapp)
+
 [**Inkling Website**](https://github.com/taliabahar/Inkling)
+
 [**Inkling**](https://github.com/taliabahar/Inkling-1)
+
 [**Astrology**](https://github.com/taliabahar/astrology)
+
 Root-by-RHU
+
 Rock, Paper, Scissors 
 
