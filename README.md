@@ -29,23 +29,21 @@ Worked on two React Hooks web applications with 3 other students per project tha
 
 ## Projects
 
-[**Should I Stay or Should I Go?**](https://github.com/taliabahar/React-TaliaWengelKeziahJoshua)
+[**Should I Stay or Should I Go?**](https://github.com/taliabahar/React-TaliaWengelKeziahJoshua): React Hooks web app I colloborated on with three other students that uses the Sponacular API to compare the convenience (in terms of time) and cost of an inputted meal to help users decide whether they should eat at home or at a restaurant. Upon searching for a meal users are presented with etailed information such as location (of restaurant) or recipe (if cooking at home). Served as SCRUM Master on project. 
 
-[**Pet Match**](https://github.com/taliabahar/pet-match)
+[**Pet Match**](https://github.com/taliabahar/pet-match): React Hooks web app I colloborated on with three other students that uses the Petfinder API to help users find adoptable animals near them that match their needs/desires by taking a short quiz. Came up with concept and served as Project Manager with the goal to promote the adoption of shelter animals to help save animals who are being put down due to shelters closing down and help mitigate the anxiety and boredom quarantining has caused. Coded in JavaScript and React Hooks and uses React Router and the Petfinder API.
 
-[**The Whole Story**](https://github.com/taliabahar/tws-client)
+[**The Whole Story**](https://github.com/taliabahar/tws-client): The Whole Story is a news centered web app I worked on as the UI/UX lead + Front End Deveoloper as part of the Mozilla Builders LMU Spring 2020 Hackternship with two other students. I also created all the art work for the site myself. The Whole Story's goal was to help the younger generation become politically-informed in a hollistic manner by removing avenues for implicit bias to enter their news stream leading to a deeper and more individualistic political understanding. Coded in React Hooks, JS, HTML, and utilized Material UI. 
 
-[**RE Climate Webapp**](https://github.com/lmu-climate/lmu-climate-webapp)
+[**RE Climate Webapp**](https://github.com/lmu-climate/lmu-climate-webapp): RE is an evironmental focused React webapp I worked on as the UI/UX lead + Front End Developer. I also created all the art work for the site myself. Coded in React, JS, HTML, and SCSS. 
 
-[**Inkling Website**](https://github.com/taliabahar/Inkling)
+[**Inkling**](https://github.com/taliabahar/Inkling-1: Collaborated with five other LMU Students to create Inkling. Inkling is a programming language that lets you follow your gut—you learn to program by doing what makes sense to you while learning to shift your thinking to grow as a programmer and as a thinker. It is a simple English-modeled and statically typed language made to help beginner programmers step into coding and then easily transition into other languages. Coded in ​JavaScript​ and uses ​Ohm​ and ​Jest. + Personally created ([Inkling informational website](https://github.com/taliabahar/Inkling)) using React and Bootstrap. 
 
-[**Inkling**](https://github.com/taliabahar/Inkling-1)
-
-[**Astrology**](https://github.com/taliabahar/astrology)
+[**Astrology**](https://github.com/taliabahar/astrology): 
 
 Root-by-RHU
 
-[**Rock, Paper, Scissor**](https://codepen.io/taliabahar/pen/qerbXJ?editors=0011)
+[**Rock, Paper, Scissor**](https://codepen.io/taliabahar/pen/qerbXJ?editors=0011) MAYBE
 
 [**It Takes a Toal**](https://codepen.io/taliabahar/pen/ZadXqq?editors=0010) MAYBE
 
