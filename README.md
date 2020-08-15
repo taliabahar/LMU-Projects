@@ -39,11 +39,9 @@ Worked on two **React** web applications with 3 other students per project that 
 
 [**Inkling**](https://github.com/taliabahar/Inkling-1): Collaborated with five other LMU Students to create Inkling. Inkling is a programming language that lets you follow your gut—you learn to program by doing what makes sense to you while learning to shift your thinking to grow as a programmer and as a thinker. It is a simple English-modeled and statically typed language made to help beginner programmers step into coding and then easily transition into other languages. Coded in **JavaScript** and uses **Ohm** and **Jest** + Personally created [Inkling informational website](https://github.com/taliabahar/Inkling) using **React** and Bootstrap. 
 
+[**Rock, Paper, Scissor**](https://codepen.io/taliabahar/pen/qerbXJ?editors=0011): Simple Rock, Paper, Scissors game coded for a Girls Who Code teaching assistant application challenge. Coded in **HTML**, **JavaScript**, and **CSS**. 
+
 [**Astrology**](https://github.com/taliabahar/astrology): 
 
 Root-by-RHU
-
-[**Rock, Paper, Scissor**](https://codepen.io/taliabahar/pen/qerbXJ?editors=0011) MAYBE
-
-[**It Takes a Toal**](https://codepen.io/taliabahar/pen/ZadXqq?editors=0010) MAYBE
 
