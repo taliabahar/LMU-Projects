@@ -29,7 +29,7 @@ Worked on two **React** web applications with 3 other students per project that 
 
 ## Projects
 
-[**Should I Stay or Should I Go?**](https://github.com/taliabahar/React-TaliaWengelKeziahJoshua): **React Hooks** web app I colloborated on with three other students that uses the Sponacular API to compare the convenience (in terms of time) and cost of an inputted meal to help users decide whether they should eat at home or at a restaurant. Upon searching for a meal users are presented with detailed information such as location (of restaurant) or recipe (if cooking at home). Served as SCRUM Master on project. 
+[**Should I Stay or Should I Go?**](https://github.com/taliabahar/React-TaliaWengelKeziahJoshua): **React Hooks** web app I colloborated on with three other students that uses the Sponacular API to help decide whether to eat out or prepare food at home in terms of health. Upon searching for a food users are presented with the nutritional information(calories, protein, carbs, etc.) related to the entered food for a meal one could prepare at home versus a meal they could purchase at a restaurant. Served as SCRUM Master on project. 
 
 [**Pet Match**](https://github.com/taliabahar/pet-match): **React Hooks** web app I colloborated on with three other students that uses the Petfinder API to help users find adoptable animals near them that match their needs/desires by taking a short quiz. Came up with concept and served as Project Manager with the goal to promote the adoption of shelter animals to help save animals who are being put down due to shelters closing down and help mitigate the anxiety and boredom quarantining has caused. Coded in **JavaScript** and **React Hooks** and uses React Router and the Petfinder API.
 
