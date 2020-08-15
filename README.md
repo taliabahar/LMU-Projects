@@ -20,8 +20,7 @@ This repository houses the various projects and assignments I completed during m
 
 [**CMSI 387 Operating Systems**](https://github.com/taliabahar/CMSI387-MayaTaliaVeronica): Learned about concepts in the design of operating systems, including processes, process management, mutual exclusion, synchronization and message-passing, primary memory management, multiprogramming, paged allocation and paging policies, resource and I/O management, file systems, and security. Problems coded in **C** and **Java**.
 
-[**CMSI 399 App Development Practicum**] : Course designed to teach students React and prepare students for the work force through group projects, that stand and share/team stuff, and interview questions.
-Worked on two **React** web applications with 3 other students per project that utilized the Spoonacular and Petfinder APIs. Interview questions coded in **JavaScript**.
+[**CMSI 399 App Development Practicum**](https://github.com/taliabahar/CMSI-399-App-Development-Practicum): Course designed to teach students React and prepare students for the work force through group projects, standups, and interview practice. Worked on two **React** web applications with 3 other students per project that utilized the Spoonacular and Petfinder APIs. Interview questions coded in **JavaScript**.
 
 [**CMSI 486 Introduction to Database Systems**](https://github.com/taliabahar/CMSI-486-Databases): Introduction to the theory and design of database systems. Database assignments completed using **MongoDB** and **Neo4j**.
 
