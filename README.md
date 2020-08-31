@@ -1,6 +1,6 @@
 # LMU Projects 
 
-This repository houses the various projects and assignments I completed during my time at Loyola Marymount University. 
+This repository houses the various projects and assignments I completed during my time at Loyola Marymount University. Some of these repositories might be private due to class requirements, if access is needed please contact me at <tbahar@lion.lmu.edu>.
 
 ## Courses 
 
@@ -12,7 +12,7 @@ This repository houses the various projects and assignments I completed during m
 
 [**CMSI 284 Computer Systems Organization**] : An introduction to the basic organization of computer systems. Digital representation of textual and numeric information. Machine instructions and instruction formats, assemblers and assembly languages, linking and loading, process execution, interrupt and device-handling, and file management. System-level programming in **C** and **assembly language**.
 
-[**CMSI 370 Interaction Design**] : Introduction to interaction design and human-computer interaction, with equal emphasis on learning how to design and evaluate interaction architectures, and learning how to use existing frameworks to implement such architectures. Course project coded with **React** and utilized the Shippo and MapBox APIs to create an efficient package tracking web app. 
+[**CMSI 370 Interaction Design**](https://github.com/taliabahar/package-tracker) : Introduction to interaction design and human-computer interaction, with equal emphasis on learning how to design and evaluate interaction architectures, and learning how to use existing frameworks to implement such architectures. Course project coded with **React** and utilized the Shippo and MapBox APIs to create an efficient package tracking web app. 
 
 [**CMSI 371 Computer Graphics**](https://github.com/taliabahar/CMSI-371-ComputerGraphics): Introduction to interactive computer graphics. Topics include the design and use of three-dimensional graphics engines and APIs, animation, physics and computer games, 3D modeling, computational geometry, shading, ray tracing, and fractal geometry. All projects coded in **C++** and used GLUT and OpenGL libraries.
 
